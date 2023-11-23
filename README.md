@@ -6,8 +6,9 @@ REST API using <strong>hexagonal architecture</strong> patterns (ports and adapt
 
 Tools:
 <li> Java 17 </li>
-<li> SpringBoot 2.7.13 </li>
+<li> SpringBoot 3.1.5 </li>
 <li> FlyWay </li>
+<li> Docker </li>
 <li> H2 Database </li>
 <br>
 <strong>Back-end: </strong>
