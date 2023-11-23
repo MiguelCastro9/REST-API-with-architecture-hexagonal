@@ -15,3 +15,10 @@ Tools:
 Import the project into an IDE of your choice, the IDE used in the development was the Netbeans IDE, 
 so just build the application to download the dependencies that are managed by Maven, but first, 
 Docker must be installed and the container images encoded in the <code>docker-compose.yml</code> file initialized, with the <code>docker-compose up --build</code> command.
+
+## Demo
+
+https://github.com/MiguelCastro9/REST-API-with-architecture-hexagonal/assets/56695817/34b5d239-1bb1-4f11-b390-74f7beb90dd5
+
+
+
