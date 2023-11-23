@@ -13,5 +13,5 @@ Tools:
 <br>
 <strong>Back-end: </strong>
 Import the project into an IDE of your choice, the IDE used in the development was the Netbeans IDE, 
-so just build the application to download the dependencies that are managed by Maven, and when the application is running, 
-just access the application endpoints.
+so just build the application to download the dependencies that are managed by Maven, but first, 
+Docker must be installed and the container images encoded in the <code>docker-compose.yml</code> file initialized, with the <code>docker-compose up --build</code> command.
